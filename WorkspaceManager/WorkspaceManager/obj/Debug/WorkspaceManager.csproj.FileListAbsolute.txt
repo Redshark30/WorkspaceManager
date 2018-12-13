@@ -1,0 +1,13 @@
+C:\Users\Manu\Documents\GitHub\WorkspaceManager\WorkspaceManager\WorkspaceManager\WorkspaceManager\bin\Debug\WorkspaceManager.exe.config
+C:\Users\Manu\Documents\GitHub\WorkspaceManager\WorkspaceManager\WorkspaceManager\WorkspaceManager\bin\Debug\WorkspaceManager.exe
+C:\Users\Manu\Documents\GitHub\WorkspaceManager\WorkspaceManager\WorkspaceManager\WorkspaceManager\bin\Debug\WorkspaceManager.pdb
+C:\Users\Manu\Documents\GitHub\WorkspaceManager\WorkspaceManager\WorkspaceManager\WorkspaceManager\bin\Debug\MetroFramework.Design.dll
+C:\Users\Manu\Documents\GitHub\WorkspaceManager\WorkspaceManager\WorkspaceManager\WorkspaceManager\bin\Debug\MetroFramework.dll
+C:\Users\Manu\Documents\GitHub\WorkspaceManager\WorkspaceManager\WorkspaceManager\WorkspaceManager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Manu\Documents\GitHub\WorkspaceManager\WorkspaceManager\WorkspaceManager\WorkspaceManager\obj\Debug\WorkspaceManager.Form1.resources
+C:\Users\Manu\Documents\GitHub\WorkspaceManager\WorkspaceManager\WorkspaceManager\WorkspaceManager\obj\Debug\WorkspaceManager.Properties.Resources.resources
+C:\Users\Manu\Documents\GitHub\WorkspaceManager\WorkspaceManager\WorkspaceManager\WorkspaceManager\obj\Debug\WorkspaceManager.csproj.GenerateResource.cache
+C:\Users\Manu\Documents\GitHub\WorkspaceManager\WorkspaceManager\WorkspaceManager\WorkspaceManager\obj\Debug\WorkspaceManager.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Documents\GitHub\WorkspaceManager\WorkspaceManager\WorkspaceManager\WorkspaceManager\obj\Debug\WorkspaceManager.csproj.CopyComplete
+C:\Users\Manu\Documents\GitHub\WorkspaceManager\WorkspaceManager\WorkspaceManager\WorkspaceManager\obj\Debug\WorkspaceManager.exe
+C:\Users\Manu\Documents\GitHub\WorkspaceManager\WorkspaceManager\WorkspaceManager\WorkspaceManager\obj\Debug\WorkspaceManager.pdb
